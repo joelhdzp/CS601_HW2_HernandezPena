@@ -64,7 +64,7 @@ https://api.allorigins.win/raw?url=https://gist.githubusercontent.com/joelhdzp/9
 ## 🌐 GitHub Repository
 This project's live repository may be found on GitHub at:
    ```
-   https://<your-github-username>.github.io/CS601_HW2_lastName/
+   https://github.com/joelhdzp/CS601_HW2_HernandezPena
    ```
 
 ---
