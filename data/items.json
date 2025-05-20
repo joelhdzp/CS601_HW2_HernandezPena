@@ -1,0 +1,56 @@
+{
+    "fruits": [
+        {
+            "id": 1,
+            "name": "Pineapple 🍍",
+            "category": "fruit"
+        },
+        {
+            "id": 2,
+            "name": "Banana 🍌",
+            "category": "fruit"
+        },
+        {
+            "id": 3,
+            "name": "Blueberry 🫐",
+            "category": "fruit"
+        },
+        {
+            "id": 4,
+            "name": "Mango 🥭",
+            "category": "fruit"
+        },
+        {
+            "id": 5,
+            "name": "Strawberry 🍓 ",
+            "category": "fruit"
+        }
+    ],
+    "vegetables": [
+        {
+            "id": 6,
+            "name": "Carrot 🥕",
+            "category": "vegetable"
+        },
+        {
+            "id": 7,
+            "name": "Broccoli 🥦",
+            "category": "vegetable"
+        },
+        {
+            "id": 8,
+            "name": "Corn 🌽",
+            "category": "vegetable"
+        },
+        {
+            "id": 9,
+            "name": "Red Pepper 🌶️",
+            "category": "vegetable"
+        },
+        {
+            "id": 10,
+            "name": "Tomato 🍅",
+            "category": "vegetable"
+        }
+    ]
+}
