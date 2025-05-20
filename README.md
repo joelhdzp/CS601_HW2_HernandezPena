@@ -70,5 +70,6 @@ This project's live repository may be found on GitHub at:
 ---
 
 ## 📌 Author
-**Joel Hernandez Pena**
-Created as part of MET CS601: Web Application Development at Boston University.
+**Joel Hernandez Pena**  
+MET CS601 – Web Application Development  
+Boston University
