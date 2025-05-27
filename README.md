@@ -53,7 +53,7 @@ CS601_HW2_HernandezPena/
 
 ---
 
-## JSON Source
+## 🔧 JSON Source
 The JSON file is served via a CORS-friendly proxy:
 ```
 https://api.allorigins.win/raw?url=https://gist.githubusercontent.com/joelhdzp/90a661312a32971f03bdab81fd334648/raw/08872946cba4e77a8b28e10eb85d388a899f2d7b/items.json
